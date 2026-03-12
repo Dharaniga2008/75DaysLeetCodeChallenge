@@ -1,3 +1,4 @@
+#solved using hash map
 class Solution:
     def twoSum(self, nums, target):
         for a in range(len(nums)):
